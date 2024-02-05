@@ -1,5 +1,5 @@
 # Data_project
-UMN Data Bootcamp Project 1
+UMN Data Bootcamp Project 
 
 ## Presentation Slides
 https://docs.google.com/presentation/d/1L6tG3QsMy0w0D8XbV_kMFuZ7_FnB0ErycVBCdyDRjUo/edit?usp=sharing
