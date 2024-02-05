@@ -1,4 +1,4 @@
-# umn_data_project_001
+# Data_project
 UMN Data Bootcamp Project 1
 
 ## Presentation Slides
@@ -22,7 +22,7 @@ What are potential factors that we did not include in our analysis that may have
 Was our data pulling from some populations more than others? (gender, age, type of job)
 
 ### Data Sources
-DS1: Sleep Health and Lifestyle (technically fake but we can play ignorant—Dallin said so) https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+DS1: Sleep Health and Lifestyle ( https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 DS2: US Census Lifestyle Mega Survey API https://www.census.gov/programs-surveys/acs/data/data-tables.html
 DS3: CDC Data (ish? sorta?) https://www.cdc.gov/nccdphp/dnpao/data-trends-maps/index.html
 Bootcamp Source https://bootcampspot.instructure.com/courses/4346/pages/7-project-1-overview?module_item_id=1091766
@@ -43,25 +43,25 @@ Exploratory data analysis is important for understanding the following healthcar
 Personal Fitness Analyst: Research whether working out helps a person become more active overall. Use data collected by the [Samsung Health application](https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends) to uncover relevant trends. What do the results tell you about individuals using this app? Have their lifestyles become more active? Less? Remained the same?
 
 ## Requirements
-### Completed Analysis Uploaded to GitHub (20 points)
-- Final data analysis contains ample and complete information in README file (10 points)
-- Final repository is acceptable for professional quality presentation (10 points)
-### Visualizations (20 points)
-- 6–8 visualizations of data (at least two per question) (10 points)
-- Clear and accurate labeling of images (5 points)
-- Visualizations supported with ample and precise explanation (5 points)
-### Analysis and Conclusion (20 points)
-- Write-up summarizes major findings and implications at a professional level (5 points)
-- Each question in the project proposal is answered with precise descriptions and findings (5 - points)
-- Findings are strongly supported with numbers and visualizations (5 points)
-- Each question response is supported with a well-discerned statistical analysis from lessons (e.- g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time - series analysis) (5 points)
-### Group Presentation (20 points)
-- All group members spoke during the presentation (5 points)
-- Group was well prepared (5 points)
-- Presentation is relevant to material (5 points)
-- Presentation maintains audience interest (5 points)
-### Slide Deck (20 points)
-- Slides are visually clean and professional (5 points)
-- Slides are relevant to material (5 points)
-- Slides effectively demonstrate the project (5 points)
-- Slides are clear and maintain audience interest (5 points)
+### Completed Analysis Uploaded to GitHub 
+- Final data analysis contains ample and complete information in README file 
+- Final repository is acceptable for professional quality presentation 
+### Visualizations 
+- 6–8 visualizations of data (at least two per question) 
+- Clear and accurate labeling of images 
+- Visualizations supported with ample and precise explanation 
+### Analysis and Conclusion 
+- Write-up summarizes major findings and implications at a professional level 
+- Each question in the project proposal is answered with precise descriptions and findings 
+- Findings are strongly supported with numbers and visualizations 
+- Each question response is supported with a well-discerned statistical analysis from lessons (e.- g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time - series analysis) 
+### Group Presentation 
+- All group members spoke during the presentation 
+- Group was well prepared 
+- Presentation is relevant to material 
+- Presentation maintains audience interest 
+### Slide Deck 
+- Slides are visually clean and professional 
+- Slides are relevant to material 
+- Slides effectively demonstrate the project 
+- Slides are clear and maintain audience interest
